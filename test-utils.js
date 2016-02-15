@@ -1,4 +1,4 @@
-var chance = require('chance').Chance(113);
+var chance = require('chance').Chance();
 
 function makeid(length){
     var text = "";
